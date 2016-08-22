@@ -1,0 +1,7 @@
+plugins:
+  ip_anonymizer_enabled:
+    default: true
+    client: false  
+  ip_anonymizer_min_trustlevel:
+    default: 1
+    client: false      
